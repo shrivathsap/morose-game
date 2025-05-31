@@ -1,4 +1,5 @@
 # morose-game
+# 2025 edit: the program no longer works as goodreads stops requests from webscraping their site
 a little morse game (the typo in title is intentional, so not really a typo)
 
 needs windoes, no idea what happens if you use it on some other system
